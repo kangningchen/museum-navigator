@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A238868A-30EE-FCB2-64F1-2FD0F7F2ED45}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/link.xml">
+    <Files>
+      <File FileName="Assets/Scripts/SelectModel.cs" Line="25" Column="61" />
+      <File FileName="Assets/link.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
